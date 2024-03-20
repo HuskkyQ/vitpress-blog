@@ -13,8 +13,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '建站相关',
         items: [
+          { text: '如何建站', link: '/deploy' },
           { text: 'Getting Started', link: '/getting-started' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
