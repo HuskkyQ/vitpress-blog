@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Sevan_Huskky's Blog"
   text: 'Learning records'
-  tagline: '建站博客教学？'
+  tagline: '建站博客教学'
   actions:
     - theme: brand
       text: Getting Started
