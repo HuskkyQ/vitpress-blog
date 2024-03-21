@@ -22,6 +22,15 @@ export default defineConfig({
         ],
       },
       {
+        text: '鸿蒙学习记录',
+        items: [
+          {
+            text: '基本语法概述',
+            link: '/hormonyos/base-syntax',
+          },
+        ],
+      },
+      {
         text: 'Examples2',
         items: [{ text: 'Get Start', link: '/getting-started' }],
       },
